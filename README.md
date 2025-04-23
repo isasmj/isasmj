@@ -36,7 +36,7 @@
   
 ![Rotating Globe](https://raw.githubusercontent.com/hacksore/hacksore/main/images/globe.gif)
 
-```javascript
+
 const hackerMode = () => {
   setInterval(() => {
     console.log(`0x${Math.random().toString(16).substr(2,8)}`);
