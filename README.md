@@ -3,7 +3,6 @@
 <div align="center">
 
 
-![Gato digitando](https://media.giphy.com/media/3o85xnXSqptpW7aKjC/giphy.gif)
 
 ![Gato programador](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
