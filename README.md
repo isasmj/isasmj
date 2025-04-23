@@ -34,7 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isasmj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Gato Dançando com Computador](https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif)
+![Gato Dançando com Computador](https://media.giphy.com/media/l0HU2sYx7eVJZvqSI/giphy.gif)
+
 
 
 
