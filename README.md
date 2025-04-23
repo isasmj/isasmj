@@ -12,35 +12,11 @@
 
 ---
 
-## 🎮 Meu Stack Tecnológico
-
-
-<div align="center">
-
-
-
-</div>
-
 ---
 
 <div align="center">
 
 ✨ **Vamos construir algo incrível juntos!** ✨
 
-</div>
-
-<div align="center">
-
-
-<div align="center">
-  
-![Rotating Globe](https://raw.githubusercontent.com/hacksore/hacksore/main/images/globe.gif)
-
-
-const hackerMode = () => {
-  setInterval(() => {
-    console.log(`0x${Math.random().toString(16).substr(2,8)}`);
-  }, 100);
-};
 
 
