@@ -15,9 +15,24 @@
 ## 🎮 Meu Stack Tecnológico
 
 <div align="center">
-<div align="center">
-Typing SVG
+## 🔥 **GitHub Stats**
 
-GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=isasmj&theme=dark&hide_border=true&fire=DD2727)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isasmj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isasmj&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ **Vamos construir algo incrível juntos!** ✨
+
+</div>
 
 
