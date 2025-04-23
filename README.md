@@ -1,6 +1,5 @@
 <div align="center">
 
-![Snake Animation](https://github.com/isasmj/isasmj/blob/output/github-contribution-grid-snake.svg)
 
 # **✨ ISASMJ ✨**  
 
@@ -24,18 +23,4 @@
 
 ![Tech GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-```javascript
-const skills = {
-  languages: ['JavaScript', 'Python', 'Java'],
-  frontend: ['React', 'HTML5', 'CSS3'],
-  backend: ['Node.js', 'Express'],
-  databases: ['MySQL', 'MongoDB'],
-  tools: ['Git', 'VS Code', 'Figma']
-}
 
-Jokes
-Visitor Count
-⚡ May the Code Be With You! ⚡
-Footer
-
-</div> ```
