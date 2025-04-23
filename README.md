@@ -1,4 +1,4 @@
-# 🐱‍💻 ISASMJ - O Dev dos Gatos! 
+# 🐱‍💻 ISASMJ! 
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ![Gato programador](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&width=500&lines=console.log(%22Miau%2C+eu+sou+o+ISASMJ!%22);while(true)+%7B+meow();+code();+%7D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&width=500&lines=console.log(%22Miau%2C+eu+sou+o+ISASMJ!%22);while(true)+%7B+code();+code();+%7D)
 
 </div>
 
