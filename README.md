@@ -9,9 +9,9 @@
 
 ---
 
-# 👋 Olá, eu sou o Isaque (isasmj)!
+# 👋 Olá, eu sou a Isa (isasmj)!
 
-💻 Desenvolvedor Python e JavaScript  
+💻 Desenvolvedora Python e JavaScript  
 🎨 Apaixonado por criar soluções criativas e funcionais  
 🚀 Sempre aprendendo e compartilhando conhecimento
 
