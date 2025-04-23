@@ -19,10 +19,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isasmj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isasmj&layout=compact&theme=dark&hide_border=true)
-
 </div>
 
 ---
@@ -30,6 +26,10 @@
 <div align="center">
 
 ✨ **Vamos construir algo incrível juntos!** ✨
+
+</div>
+
+![Matrix Code](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF41&width=500&lines=System.out.println(%22Beep+Boop%22);await+future();while(1+1==2);)
 
 </div>
 
