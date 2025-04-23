@@ -15,5 +15,9 @@
 ## 🎮 Meu Stack Tecnológico
 
 <div align="center">
+<div align="center">
+Typing SVG
+
+GitHub Streak
 
 
