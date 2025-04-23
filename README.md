@@ -37,3 +37,9 @@
 </div>
 
 
+<div align="center">
+  
+![Rotating Globe](https://raw.githubusercontent.com/hacksore/hacksore/main/images/globe.gif)
+
+</div>
+2. 🎮 Te
