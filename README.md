@@ -29,8 +29,11 @@
 
 </div>
 
-![Matrix Code](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF41&width=500&lines=System.out.println(%22Beep+Boop%22);await+future();while(1+1==2);)
+<div align="center">
 
+<img src="https://github.com/isasmj/isasmj/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+
+</div> 
 </div>
 
 
