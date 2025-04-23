@@ -16,10 +16,4 @@
 
 <div align="center">
 
-![Gato com óculos](https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif)
 
-```javascript
-const skills = {
-  languages: ['JavaScript', 'Python'],
-  tools: ['VS Code', 'Git', 'Gatos']
-};
