@@ -14,12 +14,10 @@
 
 ## 🎮 Meu Stack Tecnológico
 
-<div align="center">
-## 🔥 **GitHub Stats**
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=isasmj&theme=dark&hide_border=true&fire=DD2727)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isasmj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
