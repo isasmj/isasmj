@@ -34,5 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isasmj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Gato Digitando Código]([https://i.gifer.com/2IS5.mp4])
+![Gato Hacker Digitando](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
