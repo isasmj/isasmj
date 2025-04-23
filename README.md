@@ -2,13 +2,12 @@
 
 <div align="center">
 
-![Snake eating contributions](https://github.com/isasmj/isasmj/blob/output/github-contribution-grid-snake.svg)
 
 ![Gato digitando](https://media.giphy.com/media/3o85xnXSqptpW7aKjC/giphy.gif)
 
 ![Gato programador](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&width=500&lines=console.log(%22Miau%2C+eu+sou+o+ISASMJ!%22);while(true)+%7B+code();+code();+%7D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&width=435&lines=console.log(%22Hello+World!%22);while(alive)+%7B+code++;+%7D)
 
 </div>
 
