@@ -34,6 +34,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isasmj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-!(https://makeagif.com/gif/gato-escribiendo-en-pc-egMxeI)
-
+<img src="/assets/img/7ljs.gif">
 
