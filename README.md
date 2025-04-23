@@ -1,4 +1,4 @@
-# 🐱‍💻 ISASMJ! 
+# 💻ISASMJ💻! 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&width=435&lines=console.log(%22Hello+World!%22);while(alive)+%7B+code++;+%7D)
 
 </div>
@@ -9,10 +9,6 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 
-![Gato programador](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-
----
 
 ---
 
